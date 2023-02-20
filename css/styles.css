@@ -1,0 +1,60 @@
+.row-header{
+    margin: 0px auto;
+    padding: 0px;
+}
+
+.row-content{
+    margin: 0px auto;
+    padding: 50px 0px 50px 0px;
+    border-bottom: 1px ridge;
+    min-height: 400px;
+}
+
+.footer{
+    background-color: #92DCC8;
+    margin: 0px auto;
+    padding: 20pz 0px 20px 0px;
+}
+
+.jumbotron{
+    padding: 70px 30px 70px 30px;
+    margin: 0px auto;
+    background-color: #3bb493;
+    color: floralwhite;
+}
+
+.jumbotron2{
+    padding: 20px 5px 10px 8px;
+    margin: 0px;
+    background-color: #0e0f0f;
+    color: floralwhite;
+}
+
+address{
+    font-size: 80%;
+    margin: 0px;
+    color: #0f0f0f;
+}
+
+body {
+
+    padding:50px 0px 0px 0px;
+    z-index:0;
+    
+    }
+
+
+    
+    .navbar-inverse {
+    
+    background-color: #293949;
+
+    
+    }
+
+    .jumbotron3{
+        padding: 70px 30px 70px 30px;
+        margin: 0px auto;
+        background-color: #0e0f0f;
+        color: floralwhite;
+    }
